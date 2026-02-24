@@ -1,6 +1,6 @@
 import type { CalculateBondRequest, BondCalculationResult } from './types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://bond-yield-calculator-0p8n.onrender.com/api';
 
 export async function calculateBond(
   body: CalculateBondRequest
