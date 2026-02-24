@@ -17,10 +17,11 @@
 ## Total Interest Earned
 
 - **Formula (hold-to-maturity dollars earned)**: Total cash received minus purchase price.  
-  \[
-  \\text{Total Interest Earned} = (\\text{sum of coupons} + \\text{face value}) - \\text{market price}
-  \]
-  This ensures **zero-coupon bonds** earn \(\\text{face} - \\text{price}\\) over the life.
+  
+  `Total Interest Earned = ((sum of coupons) + faceValue) - market price`
+  
+  
+  This ensures **zero-coupon bonds** earn \(\text{face} - \text{price}\) over the life.
 
 ## Premium / Discount
 
